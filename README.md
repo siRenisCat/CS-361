@@ -7,4 +7,5 @@
 1. Wait for the response from the server using the recv_string method of the socket. 
 2. Once a response is received from the server, the response is stored in a variable random_url.
 #### UML sequence diagram 
-![image](https://user-images.githubusercontent.com/91215520/218226013-d87737ab-3da7-44d3-b5a3-3ec4da28cb75.png)
+
+<img width="409" alt="Screen Shot 2023-02-10 at 7 28 42 PM" src="https://user-images.githubusercontent.com/91215520/218226216-37df49a6-dd2d-4e69-80f7-23308b3602df.png">
